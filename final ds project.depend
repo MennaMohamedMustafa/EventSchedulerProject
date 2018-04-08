@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1451407113 source:c:\users\makkapc\desktop\final ds project\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+	<vector>
+	<ctime>
+	<time.h>
+	<sstream>
+
+1451474362 source:c:\users\makkapc\desktop\ds project\final ds project\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+	<vector>
+	<ctime>
+	<Windows.h>
+
+1451474362 source:d:\college files\year 2\data structure\projectttttttttttttttt\new folder\ds project\final ds project\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+	<vector>
+	<ctime>
+	<Windows.h>
+
